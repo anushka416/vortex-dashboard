@@ -1,7 +1,6 @@
 import { useEffect, useState, useCallback } from "react";
 
-const API = "http://127.0.0.1:5000";
-
+const API = "https://vortex-server-production-f57b.up.railway.app";
 const CSS = `
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600&family=Syne:wght@400;600;700;800&display=swap');
 *{box-sizing:border-box;margin:0;padding:0}
